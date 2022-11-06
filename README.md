@@ -31,13 +31,13 @@
 
 <b>My GitHub Stats </b>
 
-<a href="https://github.com/">yeduj<img src="https://github-readme-stats.vercel.app/api?username=YethiJNair&show_icons=true&hide=&count_private=true&title_color=7f08b2&text_color=ffffff&icon_color=7f08b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mhdyaseen8841's GitHub stats" /></a>
+<a href="https://github.com/">yeduj<img src="https://github-readme-stats.vercel.app/api?username=yeduj&show_icons=true&hide=&count_private=true&title_color=7f08b2&text_color=ffffff&icon_color=7f08b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mhdyaseen8841's GitHub stats" /></a>
 
-<a href="https://github.com/yeduj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YethiJNair&stroke=ffffff&background=1c1917&ring=7f08b2&fire=7f08b2&currStreakNum=ffffff&currStreakLabel=7f08b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/yeduj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yeduj&stroke=ffffff&background=1c1917&ring=7f08b2&fire=7f08b2&currStreakNum=ffffff&currStreakLabel=7f08b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/yeduj"><img src="https://activity-graph.herokuapp.com/graph?username=YethiJNair&bg_color=1c1917&color=ffffff&line=7f08b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/yeduj"><img src="https://activity-graph.herokuapp.com/graph?username=yeduj&bg_color=1c1917&color=ffffff&line=7f08b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/yeduj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YethiJNair&langs_count=10&title_color=7f08b2&text_color=ffffff&icon_color=7f08b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/yeduj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeduj&langs_count=10&title_color=7f08b2&text_color=ffffff&icon_color=7f08b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
