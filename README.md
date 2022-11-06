@@ -1,5 +1,5 @@
 [![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https:vishakh_abhayan.io)
-<h1 align="center">Hi , I'm Yedukrishnan J</h1>
+<h1 align="center">Hi , I'm Yedu</h1>
 <h3 align="center">A passion driven Software engine</h3>
 <img align="right" width="400" alt="coding..." 
      src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
@@ -11,11 +11,9 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Web Development and python**
-
 - 📫 How to reach me **yeduj2001@gmail.com**
 
-- ⚡ My moto **This is such a Drag**
+- ⚡ well... **This is such a Drag**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -33,7 +31,7 @@
 
 <b>My GitHub Stats </b>
 
-<a href="https://github.com/">yeduj<img src="https://github-readme-stats.vercel.app/api?username=yeduj&show_icons=true&hide=&count_private=true&title_color=7f08b2&text_color=ffffff&icon_color=7f08b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mhdyaseen8841's GitHub stats" /></a>
+<a href="https://github.com/yeduj"><img src="https://github-readme-stats.vercel.app/api?username=yeduj&show_icons=true&hide=&count_private=true&title_color=7f08b2&text_color=ffffff&icon_color=7f08b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mhdyaseen8841's GitHub stats" /></a>
 
 <a href="https://github.com/yeduj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yeduj&stroke=ffffff&background=1c1917&ring=7f08b2&fire=7f08b2&currStreakNum=ffffff&currStreakLabel=7f08b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
